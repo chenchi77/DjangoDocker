@@ -25,7 +25,7 @@ SECRET_KEY = 'cz7$s*s1ml6es4di#($md!g*ft1mva35)&o_zu=$0ma00i18+%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysite.local']
 
 
 # Application definition
